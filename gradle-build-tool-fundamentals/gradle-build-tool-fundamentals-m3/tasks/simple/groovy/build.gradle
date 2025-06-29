@@ -1,0 +1,18 @@
+task hello {
+    doFirst {
+        print 'Hello'
+    }
+
+    doLast {
+        println(', World')
+    }
+}
+
+task world {
+
+    dependsOn hello
+
+    doLast {
+        println('World')
+    }
+}

@@ -1,0 +1,10 @@
+-classpath 'C:\\Users\\britt\\source\\repos\\gradle-build-tool-fundamentals\\gradle-build-tool-fundamentals-m4\\groovy\\SecurityTools.Java\\build\\classes\\java\\main;C:\\Users\\britt\\source\\repos\\gradle-build-tool-fundamentals\\gradle-build-tool-fundamentals-m4\\groovy\\SecurityTools.Java\\build\\resources\\main;C:\\Users\\britt\\source\\repos\\gradle-build-tool-fundamentals\\gradle-build-tool-fundamentals-m4\\groovy\\SecurityTools.Java\\lib\\log4j-1.2.8.jar;C:\\Users\\britt\\source\\repos\\gradle-build-tool-fundamentals\\gradle-build-tool-fundamentals-m4\\groovy\\SecurityTools.Java\\lib\\junit-3.8.1.jar;C:\\Users\\britt\\source\\repos\\gradle-build-tool-fundamentals\\gradle-build-tool-fundamentals-m4\\groovy\\SecurityTools.Java\\lib\\jaxb-api-2.3.1.jar'
+-d 'C:\\Users\\britt\\source\\repos\\gradle-build-tool-fundamentals\\gradle-build-tool-fundamentals-m4\\groovy\\SecurityTools.Java\\build\\docs\\javadoc'
+-doctitle 'SecurityTools.Java API'
+-notimestamp 
+-quiet 
+-windowtitle 'SecurityTools.Java API'
+'C:\\Users\\britt\\source\\repos\\gradle-build-tool-fundamentals\\gradle-build-tool-fundamentals-m4\\groovy\\SecurityTools.Java\\src\\com\\pluralsight\\security\\Hash.java'
+'C:\\Users\\britt\\source\\repos\\gradle-build-tool-fundamentals\\gradle-build-tool-fundamentals-m4\\groovy\\SecurityTools.Java\\src\\com\\pluralsight\\security\\Providers.java'
+'C:\\Users\\britt\\source\\repos\\gradle-build-tool-fundamentals\\gradle-build-tool-fundamentals-m4\\groovy\\SecurityTools.Java\\src\\com\\pluralsight\\security\\SecurityBase.java'
+'C:\\Users\\britt\\source\\repos\\gradle-build-tool-fundamentals\\gradle-build-tool-fundamentals-m4\\groovy\\SecurityTools.Java\\src\\com\\pluralsight\\security\\Sign.java'
