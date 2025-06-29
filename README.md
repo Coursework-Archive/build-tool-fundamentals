@@ -9,3 +9,6 @@ This repository contains coursework and projects focused on fundamental software
 
 ## 🧰 Tools
 - Gradle, Maven, NPM
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
